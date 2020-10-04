@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(120deg, rgb(54, 63, 54), black);
+
+    height: 100vh;
+
+}
+
+img{
+    max-width: 100%;
+}
+
+
+.player{
+    background: #000;
+    width: 450px;
+    height: 730px;
+}
